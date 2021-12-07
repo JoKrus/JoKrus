@@ -2,4 +2,5 @@
 
 ### My current Stats
 
-![JoKrus' GitHub Stats](https://github-readme-stats.vercel.app/api?username=JoKrus&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=JoKrus&show_icons=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&hide_border=true" alt="JoKrus' github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoKrus&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_border=true" /></a> |
+| ------------- | ------------- |
